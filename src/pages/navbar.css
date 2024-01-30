@@ -1,0 +1,54 @@
+/* .navContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+background-color: aqua;
+color: black;
+padding: 10px 20px 10px 20px;
+
+}
+.navlinks{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+background-color: aqua;
+color: black;
+padding:30px 30px 30px 30px;
+
+}
+a{
+    text-decoration:none;
+    color: black;
+    cursor: pointer;
+    padding:30px 10px 30px 30px;
+} */
+nav{
+    background-color: #94daf1;
+    border:10px 10px 10px 10px solid rebeccapurple ;
+}
+.v-container-main123{
+    display:flex ; 
+   
+   object-fit: contain;
+    
+}
+.v-container-main123 a{
+    text-decoration:none;
+    color:black;
+    font-weight:500;
+    font-family:  sans-serif;
+    size: 20px;
+    margin: 5px 20px;
+
+   
+}
+.linkContainer i{
+   font-size: 30px;
+  
+}
+.active{
+    color:red;
+    text-decoration:underline;
+
+    
+}

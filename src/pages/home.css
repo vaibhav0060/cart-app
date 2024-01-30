@@ -1,0 +1,13 @@
+.productsArray{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.card-title{
+    color: black;
+}
+.card-text{
+    color: black;
+}
